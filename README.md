@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhamender</h1>
-<h3 align="center">A passionate Cyber Security Anylist from India</h3>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=800&size=30&duration=4000&pause=600&color=F70A24&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+%F0%9F%99%8F%F0%9F%8F%BD!;I'm+Dharmender+"></h1>
+<h3 align="center">A passionate Cyber Security Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendeer&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendeer" /> </p>
 
@@ -13,17 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-- 👨‍💻 All of my projects are available at [/Dharmendeer](/Dharmendeer)
+- 👨‍💻 All of my projects are available at [Dharmendeer](https://github.com/Dharmendeer?tab=repositories)
 
 - 💬 Ask me about **Computer Networking**
 
 - 📫 How to reach me **saferzone56@gmail.com**
 
-- ⚡ Fun fact **Smart Work**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ **Fun Fact:** The first known computer virus was created as an experiment in 1982 and was called the `Elk Cloner`, affecting `Apple II` systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
