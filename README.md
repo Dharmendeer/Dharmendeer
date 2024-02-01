@@ -25,7 +25,7 @@
 <a href="https://twitter.com/dharmender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharmender" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@dharmender k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@dharmender k" height="30" width="40" /></a>
 <a href="https://instagram.com/@coderayush.968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@coderayush.968" height="30" width="40" /></a>
-href="https://discord.gg/dharmender_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dharmender_" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dharmender_" height="30" width="40" /></a>
 
 </p>
 
