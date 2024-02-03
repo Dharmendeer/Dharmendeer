@@ -37,3 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmendeer&show_icons=true&locale=en" alt="dharmendeer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendeer&" alt="dharmendeer" /></p>
+
+---
+<h1 align="left">⚡Activity Graph:-</h1>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendeer&theme=react-dark"/>
