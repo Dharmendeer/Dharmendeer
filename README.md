@@ -34,9 +34,7 @@
 
 ---
 <p align="center"><img height="250rem" width="600rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendeer&show_icons=true&locale=en&layout=compact" alt="dharmendeer" /></p>
-
 <p align="center">&nbsp;<img height="250rem" width="3000rem" src="https://github-readme-stats.vercel.app/api?username=dharmendeer&show_icons=true&locale=en" alt="dharmendeer" /></p>
-
 <p align="center"><img height="250rem" width="650rem" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendeer&" alt="dharmendeer" /></p>
 
 ---
