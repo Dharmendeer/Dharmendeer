@@ -38,5 +38,5 @@
 <p align="center"><img height="250rem" width="650rem" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendeer&" alt="dharmendeer" /></p>
 
 ---
-<h1 align="left">⚡Activity Graph:-</h1>
+<h1 align="left">Activity Graph:-</h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendeer&theme=redical"/>
