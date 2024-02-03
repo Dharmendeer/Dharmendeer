@@ -40,4 +40,4 @@
 
 ---
 <h1 align="left">⚡Activity Graph:-</h1>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendeer&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendeer&theme=redical"/>
