@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 Currently Working On: Live Project<br>👯 Looking to Collaborate On: Cyber Security Projects<br>🤝🌱 Currently Learning: Java, Kotlin<br>🌱 💬 Reach Out To Me At: dharmender.prof@gmail.com<br>⚡ Fun Fact: Breaking bugs, not hearts
+🔭 <strong>Currently Working On:</strong> Live Project<br>
+👯 <strong>Looking to Collaborate On:</strong> Cyber Security Projects<br>
+🌱 <strong>Currently Learning:</strong> Java, Kotlin<br>
+💬 <strong>Reach Out To Me At:</strong> dharmender.prof@gmail.com<br>
+⚡ <strong>Fun Fact:</strong> Breaking bugs, not hearts
+
 
 
 # 💻 Tech Stack:
